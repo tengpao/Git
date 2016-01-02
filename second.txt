@@ -1,0 +1,6 @@
+git add filename
+git commit -m 'message'
+git status
+git log
+git log --pretty=oneline
+
