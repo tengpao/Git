@@ -1,2 +1,4 @@
 git reset --hard head^ 回退到上个版本
 git reflog 查看所有的log包括回滚的aaaas
+git reset --hard head^^ 回退到上上个版本
+git reset --hard 319e21 恢复到指定版本
