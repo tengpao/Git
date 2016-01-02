@@ -1,0 +1,2 @@
+git reset --hard head^ 回退到上个版本
+git reflog 查看所有的log包括回滚的aaaas
